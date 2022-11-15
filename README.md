@@ -19,7 +19,7 @@ The lecture will be split into three portions:
 Some quick links are:
 
 I will post all additional resource links referenced in presentation in the following place within this repo:
-- [Somelocation]
+- [Resources - Lecture]
 
 --------
 
@@ -33,6 +33,15 @@ I will post all additional resource links referenced in presentation in the foll
     - Also in the repo
 - Computer Vision (External)
     - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
+- Whisper (External)  
+    - https://colab.research.google.com/github/petewarden/openai-whisper-webapp/blob/main/OpenAI_Whisper_ASR_Demo.ipynb#scrollTo=y2Zid2MKdPxK
+- Stable Diffusion (External) Needs Hugging Face API
+    - https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
+    - Look into salle vs stable diffusion vs midjourney etc.
+- Graph Neural Nets
+    - https://distill.pub/2021/gnn-intro/
+- GIS Class
+    - https://github.com/JELambert/POS4764
 
 
 ---------
