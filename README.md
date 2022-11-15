@@ -6,6 +6,8 @@ This will serve as an outline of all material covered in the lecture.
 
 As an interactive feature for accessibility please feel free to use this form to give real time feedback/questions too!
 * https://forms.gle/up251PpzEPKNGMS67
+Also please keep this form open and vote on what you want to do in section 3 at any time!
+* https://forms.gle/qDTpKywARcQNW2UJ8
 
 
 The lecture will be split into three portions: 
@@ -16,10 +18,9 @@ The lecture will be split into three portions:
 --------
 
 ### Section 1 - Presentation
-Some quick links are:
 
-I will post all additional resource links referenced in presentation in the following place within this repo:
-- [Resources - Lecture]
+I will post all resource links referenced in presentation in the following place within this repo along with some additional useful material:
+- [Resources - Lecture.md] (In repo)
 
 --------
 

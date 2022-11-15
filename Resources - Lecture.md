@@ -20,8 +20,13 @@ A general list of resources that will likely get referenced at some point during
         - https://www.pinecone.io/
 
 ##### Python Specific
-* https://streamlit.io/
+* https://pandas.pydata.org/
+* https://numpy.org/
+* https://geopandas.org/en/stable/
+* https://spacy.io/
+* https://scikit-learn.org/stable/
 * https://pytorch.org/
+* https://streamlit.io/
 * https://gradio.app/
 * https://www.fast.ai/
 * https://pytorch-geometric.readthedocs.io/en/latest/#
@@ -42,4 +47,3 @@ Psychological Characteristics of Leaders (PsyCL)
 * https://www.psycldataset.com/
 Personal website:
 * https://jelambert.com/
-
