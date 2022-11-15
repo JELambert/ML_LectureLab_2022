@@ -6,9 +6,9 @@ This will serve as an outline of all material covered in the lecture.
 
 As an interactive feature for accessibility please feel free to use this form to give real time feedback/questions too!
 * https://forms.gle/up251PpzEPKNGMS67
+
 Also please keep this form open and vote on what you want to do in section 3 at any time!
 * https://forms.gle/qDTpKywARcQNW2UJ8
-
 
 The lecture will be split into three portions: 
 1. A slide deck presentation that will survey a number of ML and Data Science tools.
