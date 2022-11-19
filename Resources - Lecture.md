@@ -47,3 +47,5 @@ Psychological Characteristics of Leaders (PsyCL)
 * https://www.psycldataset.com/
 Personal website:
 * https://jelambert.com/
+* https://docs.google.com/presentation/d/1QLG891QKVjn6CXyISPO6ItePXwloFnto/edit?usp=sharing&ouid=102732375633402472165&rtpof=true&sd=true
+* 
