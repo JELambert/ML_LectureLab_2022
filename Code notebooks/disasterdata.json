@@ -1,0 +1,422 @@
+{
+"hurricane": [
+    {
+    "sentence": "A category 5 hurricane made landfall, causing widespread destruction and flooding in the coastal city.",
+    "tag": "Category 5 Hurricane"
+    },
+    {
+    "sentence": "The hurricane caused massive tidal surges, destroying homes and businesses along the shoreline.",
+    "tag": "Coastal Hurricane"
+    },
+    {
+    "sentence": "Strong winds from the hurricane knocked down power lines, leaving many residents without electricity.",
+    "tag": "Wind-Damaging Hurricane"
+    },
+    {
+    "sentence": "Torrential rains from the hurricane caused flash floods, leading to road closures and evacuations.",
+    "tag": "Flooding Hurricane"
+    },
+    {
+    "sentence": "The hurricane caused widespread damage to crops and livestock, affecting the local agriculture industry.",
+    "tag": "Agricultural Hurricane"
+    },
+    {
+    "sentence": "High winds from the hurricane damaged several offshore oil rigs, leading to oil spills and environmental concerns.",
+    "tag": "Offshore Hurricane"
+    },
+    {
+    "sentence": "The hurricane caused a widespread power outage, affecting hospitals and essential services.",
+    "tag": "Power Outage Hurricane"
+    },
+    {
+    "sentence": "The hurricane disrupted transportation and communication, making it difficult for aid organizations to reach affected areas.",
+    "tag": "Disruptive Hurricane"
+    },
+    {
+    "sentence": "The hurricane caused severe beach erosion, affecting the tourism industry and local economy.",
+    "tag": "Beach Erosion Hurricane"
+    },
+    {
+    "sentence": "The hurricane caused widespread damage to infrastructure, making it difficult for residents to return home.",
+    "tag": "Infrastructure Hurricane"
+    }
+    ],
+"earthquake": [
+    {
+    "sentence": "A magnitude 7.5 earthquake struck the city, causing widespread destruction and panic among residents.",
+    "tag": "Magnitude 7.5 Earthquake"
+    },
+    {
+    "sentence": "The earthquake caused several buildings to collapse, killing and injuring many people.",
+    "tag": "Building Collapse Earthquake"
+    },
+    {
+    "sentence": "Strong aftershocks from the earthquake continued for several days, causing additional damage and fear.",
+    "tag": "Aftershock Earthquake"
+    },
+    {
+    "sentence": "The earthquake caused widespread power outages, leaving many residents without electricity.",
+    "tag": "Power Outage earthquake"
+    },
+    {
+    "sentence": "The earthquake disrupted transportation and communication, making it difficult for aid organizations to reach affected areas.",
+    "tag": "Disruptive earthquake"
+    },
+    {
+    "sentence": "Landslides triggered by the earthquake blocked roads and damaged homes in the mountainous regions.",
+    "tag": "Landslide earthquake"
+    },
+    {
+    "sentence": "The earthquake caused severe damage to historic and cultural landmarks, affecting the local tourism industry.",
+    "tag": "Cultural Landmark earthquake"
+    },
+    {
+    "sentence": "The earthquake caused severe damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure earthquake"
+    },
+    {
+    "sentence": "The earthquake caused a tsunami, causing additional damage and loss of life in coastal areas.",
+    "tag": "Tsunami earthquake"
+    },
+    {
+    "sentence": "The earthquake caused widespread damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building earthquake"
+    }
+    ],
+"tornado": [
+    {
+    "sentence": "A powerful EF5 tornado touched down in the city, causing widespread destruction and panic among residents.",
+    "tag": "EF5 Tornado"
+    },
+    {
+    "sentence": "The tornado caused several homes and businesses to be completely destroyed, leaving many homeless.",
+    "tag": "Building Destruction Tornado"
+    },
+    {
+    "sentence": "The tornado caused widespread power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Tornado"
+    },
+    {
+    "sentence": "The tornado caused extensive damage to crops and farmland, affecting the local agriculture industry.",
+    "tag": "Agricultural Tornado"
+    },
+    {
+    "sentence": "The tornado disrupted transportation, causing road closures and making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Tornado"
+    },
+    {
+    "sentence": "The tornado caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Tornado"
+    },
+    {
+    "sentence": "The tornado caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Tornado"
+    },
+    {
+    "sentence": "The tornado caused widespread flash floods, leading to road closures and evacuations.",
+    "tag": "Flooding Tornado"
+    },
+    {
+    "sentence": "The tornado caused severe damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Tornado"
+    },
+    {
+    "sentence": "The tornado caused extensive damage to historic and cultural landmarks, affecting the local tourism industry.",
+    "tag": "Cultural Landmark Tornado"
+    }
+    ],
+"tsunami": [
+    {
+    "sentence": "A massive tsunami hit the coastal city, causing widespread destruction and loss of life.",
+    "tag": "Massive Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused severe damage to homes and businesses along the coastline, leaving many homeless.",
+    "tag": "Building Destruction Tsunami"
+    },
+    {
+    "sentence": "The tsunami disrupted transportation and communication, making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused widespread power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused extensive damage to crops and farmland, affecting the local agriculture industry.",
+    "tag": "Agricultural Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused severe damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused extensive damage to historic and cultural landmarks, affecting the local tourism industry.",
+    "tag": "Cultural Landmark Tsunami"
+    },
+    {
+    "sentence": "The tsunami caused widespread flash floods, leading to road closures and evacuations.",
+    "tag": "Flooding Tsunami"
+    }
+    ],
+"thunderstorm": [
+    {
+    "sentence": "A severe thunderstorm hit the city, causing widespread power outages and property damage.",
+    "tag": "Severe Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused damage to homes and businesses, leaving many without shelter.",
+    "tag": "Building Destruction Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused widespread flash floods, leading to road closures and evacuations.",
+    "tag": "Flooding Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm disrupted transportation, causing road closures and making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused severe damage to crops and farmland, affecting the local agriculture industry.",
+    "tag": "Agricultural Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused severe damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused extensive damage to historic and cultural landmarks, affecting the local tourism industry.",
+    "tag": "Cultural Landmark Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Thunderstorm"
+    },
+    {
+    "sentence": "The thunderstorm caused widespread damage to telecommunications and communication systems, leaving many without access to information.",
+    "tag": "Communication Disrupting Thunderstorm"
+    }
+    ],
+"wildfire": [
+    {
+    "sentence": "A raging wildfire swept through the rural area, causing widespread damage and evacuations.",
+    "tag": "Raging Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused severe damage to homes and businesses, leaving many homeless.",
+    "tag": "Building Destruction Wildfire"
+    },
+    {
+    "sentence": "The wildfire disrupted transportation, causing road closures and making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused severe damage to crops and farmland, affecting the local agriculture industry.",
+    "tag": "Agricultural Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused widespread damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused extensive damage to historic and cultural landmarks, affecting the local tourism industry.",
+    "tag": "Cultural Landmark Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused widespread power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Wildfire"
+    },
+    {
+    "sentence": "The wildfire caused severe air pollution, affecting the health of local residents.",
+    "tag": "Air Pollution Wildfire"
+    }
+    ],
+"avalanche": [
+    {
+    "sentence": "A massive avalanche buried several ski resorts, causing widespread damage and evacuations.",
+    "tag": "Massive Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused severe damage to homes and businesses, leaving many homeless.",
+    "tag": "Building Destruction Avalanche"
+    },
+    {
+    "sentence": "The avalanche disrupted transportation, causing road closures and making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused severe damage to ski slopes and equipment, affecting the local tourism industry.",
+    "tag": "Tourism Industry Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused widespread damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused extensive damage to historic and cultural landmarks, affecting the local heritage.",
+    "tag": "Cultural Landmark Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused severe power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Avalanche"
+    },
+    {
+    "sentence": "The avalanche caused widespread panic and fear among the local residents.",
+    "tag": "Panic and Fear Avalanche"
+    }
+    ],
+"volcano": [
+    {
+    "sentence": "A powerful volcano erupted, causing widespread damage and evacuations.",
+    "tag": "Powerful Volcano Eruption"
+    },
+    {
+    "sentence": "The volcano caused severe damage to homes and businesses, leaving many homeless.",
+    "tag": "Building Destruction Volcano"
+    },
+    {
+    "sentence": "The volcano disrupted transportation, causing road closures and making it difficult for aid organizations to reach affected areas.",
+    "tag": "Transportation Disrupting Volcano"
+    },
+    {
+    "sentence": "The volcano caused severe damage to crops and farmland, affecting the local agriculture industry.",
+    "tag": "Agricultural Volcano"
+    },
+    {
+    "sentence": "The volcano caused widespread damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Volcano"
+    },
+    {
+    "sentence": "The volcano caused extensive damage to historic and cultural landmarks, affecting the local heritage.",
+    "tag": "Cultural Landmark Volcano"
+    },
+    {
+    "sentence": "The volcano caused widespread damage to infrastructure, including bridges, highways, and utilities.",
+    "tag": "Infrastructure Volcano"
+    },
+    {
+    "sentence": "The volcano caused severe damage to schools, hospitals, and other public buildings, affecting the local community.",
+    "tag": "Public Building Volcano"
+    },
+    {
+    "sentence": "The volcano caused severe power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Volcano"
+    },
+    {
+    "sentence": "The volcano caused widespread air pollution, affecting the health of local residents.",
+    "tag": "Air Pollution Volcano"
+    }
+    ],
+"drought": [
+    {
+    "sentence": "A severe drought hit the region, causing widespread water shortages and affecting local agriculture.",
+    "tag": "Severe Drought"
+    },
+    {
+    "sentence": "The drought caused extensive damage to crops, leading to food shortages and higher prices for consumers.",
+    "tag": "Agricultural Drought"
+    },
+    {
+    "sentence": "The drought caused widespread wildfires, leading to the destruction of homes and businesses.",
+    "tag": "Wildfire Drought"
+    },
+    {
+    "sentence": "The drought caused severe water rationing, making it difficult for residents to access clean water.",
+    "tag": "Water Rationing Drought"
+    },
+    {
+    "sentence": "The drought caused widespread damage to wildlife and their habitats, affecting the local ecosystem.",
+    "tag": "Wildlife Drought"
+    },
+    {
+    "sentence": "The drought caused severe power outages, leaving many residents without electricity.",
+    "tag": "Power Outage Drought"
+    },
+    {
+    "sentence": "The drought caused widespread economic disruption, affecting businesses and local industries.",
+    "tag": "Economic Drought"
+    },
+    {
+    "sentence": "The drought caused severe air pollution, affecting the health of local residents.",
+    "tag": "Air Pollution Drought"
+    },
+    {
+    "sentence": "The drought caused widespread displacement, as residents were forced to leave their homes in search of water and food.",
+    "tag": "Displacement Drought"
+    },
+    {
+    "sentence": "The drought caused severe water contamination, making it difficult for residents to access safe drinking water.",
+    "tag": "Water Contamination Drought"
+    }
+    ],
+"blizzard": [
+    {
+    "sentence": "A powerful blizzard swept through the region, causing widespread power outages and road closures.",
+    "tag": "Powerful Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused extensive damage to homes and businesses, leaving many without shelter.",
+    "tag": "Structural Damage Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused widespread flight cancellations, leaving travelers stranded.",
+    "tag": "Flight Cancellation Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused severe food shortages, making it difficult for residents to access necessities.",
+    "tag": "Food Shortage Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused widespread water supply disruptions, affecting local residents and businesses.",
+    "tag": "Water Supply Disruption Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused widespread school closures, affecting the education of local students.",
+    "tag": "School Closure Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused severe traffic disruptions, making it difficult for residents to move about the area.",
+    "tag": "Traffic Disruption Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused widespread economic disruption, affecting local businesses and industries.",
+    "tag": "Economic Disruption Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused severe health risks, as residents struggled to access medical care in harsh conditions.",
+    "tag": "Health Risk Blizzard"
+    },
+    {
+    "sentence": "The blizzard caused widespread evacuation, as residents were forced to leave their homes in search of safety.",
+    "tag": "Evacuation Blizzard"
+    }
+    ]
+}
